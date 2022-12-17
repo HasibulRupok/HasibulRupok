@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasibul Hassan Rupok</h1>
-<h3 align="center">A passionate developer and student from Bangladesh</h3>
+<h3 align="center">A passionate developer, student and machine learning enthusiast from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulrupok&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulrupok" /> </p>
 
-- 🔭 I’m currently pursuing my bachelor degree [in Computer Science and Engineering from the Department of Computer Science and Engineering,](United International University.)
+- 🎓 I’m currently pursuing my bachelor degree in Computer Science and Engineering from the Department of Computer Science and Engineering from United International University.
 
 - 🌱 I’m currently learning **react, dJango, MongoDB**
 
