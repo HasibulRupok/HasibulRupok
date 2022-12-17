@@ -5,13 +5,13 @@
 
 - 🎓 I’m currently pursuing my bachelor degree in Computer Science and Engineering from the Department of Computer Science and Engineering from United International University.
 
-- 🌱 I’m currently learning **react, dJango, MongoDB**
+- 📝 I’m currently learning **react, dJango, MongoDB**
 
 - 👨‍💻 All of my updates are available at [https://hasibul-rupok.me/](https://hasibul-rupok.me/)
 
 - 💬 Ask me about **Python, Java, CPP, C, Javascript, HTML, CSS, PHP, AJAX**
 
-- 📫 How to reach me **hasibul.rupok@gmail.com**
+- 💌 How to reach me **hasibul.rupok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
