@@ -10,7 +10,7 @@
 </div>
 
 
-Welcome to my portfolio! I am Hasibul Hasan Rupok, a passionate developer, student, and machine learning enthusiast from Bangladesh. Currently, I am pursuing my studies in Computer Science & Engineering at United International University.
+Welcome to my portfolio! I am Hasibul Hasan Rupok, a passionate developer, student, and machine learning enthusiast from Bangladesh. Currently, I am pursuing my bachelor degree in Computer Science & Engineering at United International University.
 
 ## About Me
 
