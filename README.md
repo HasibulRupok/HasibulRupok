@@ -1,7 +1,7 @@
 <!-- ![Hasibul Hasan Rupok](dp.png) -->
 <!-- <img src="dp.png" alt="Hasibul Hasan Rupok" width="300" height="300"> -->
 <div align="center">
-  <img src="profile_picture.jpg" alt="Your Name" width="300" height="300">
+  <img src="dp.png" alt="Hasibul Hasan Rupok" width="300" height="300">
 </div>
 
 <!-- # Hasibul Hasan Rupok -->
