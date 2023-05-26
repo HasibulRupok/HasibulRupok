@@ -1,4 +1,5 @@
-![Hasibul Hasan Rupok](dp.png)
+<!-- ![Hasibul Hasan Rupok](dp.png) -->
+<img src="dp.png" alt="Hasibul Hasan Rupok" width="300" height="300">
 # Hasibul Hasan Rupok
 
 Welcome to my portfolio! I am Hasibul Hasan Rupok, a passionate developer, student, and machine learning enthusiast from Bangladesh. Currently, I am pursuing my studies in Computer Science & Engineering at United International University.
